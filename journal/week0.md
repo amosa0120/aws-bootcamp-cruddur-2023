@@ -11,15 +11,22 @@
 <img width="960" alt="AWS CLI" src="https://user-images.githubusercontent.com/105741295/221060701-fd53e1f0-0472-427a-b312-205ecbaa9b05.png">
 ```
 
-#### I Use AWS Consol for setting up Budget as well as billing alarm. 
+#### I Use AWS Consol for setting up Budget as well as billing alarm
 
 ```
 ![Installing AWS Budget](Asset/AWS budget.png)
 ```
 <img width="960" alt="2023-02-23" src="https://user-images.githubusercontent.com/105741295/221051880-d39c76a7-a0ef-444c-add7-69e46a5df93e.png">
 ```
+##### AWS budget notification alarm
 
-##### Logical Diaggram
+![setting AWS budget notification ](Asset/AWS .png)
+```
+![AWS Budget Notification](https://user-images.githubusercontent.com/105741295/221068713-f85fbc3c-ad3a-4a54-a869-ba97de363fdf.png)
+```
+![Notification of AWS Billing alarm  ](Asset/AWS Billing Notification.png)
+
+######Logical Diaggram
 
 ![Installing Logical diagram](Asset/Crudder Logical Diagram.png)
 
