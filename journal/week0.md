@@ -1,10 +1,10 @@
 # Week 0 — Billing and Architecture
 ## Week-0 Required Homework
 ### I did set AWS CLI via gitpod as well as on window just for exercies,after installed the AWS CLI on window, I did use the AWS sts get-caller-indentify to check, but i could't link it and it was showing the error message stating" Unknown output type:[NONE], to solve the problem by changing changing AWS default output to "jason" and it work fine. 
-**note to insert picture**
+![Installing AWS CLI](Asset/AWS CLI.Ping)
 ```
-<img width="960" alt="2023-02-23 (3)" src="https://user-images.githubusercontent.com/105741295/221042199-2faa69a8-dcb0-4351-a2f1-2c30561300cc.png">
-```
+<img width="960" alt="AWS CLI" src="https://user-images.githubusercontent.com/105741295/221060701-fd53e1f0-0472-427a-b312-205ecbaa9b05.png">
+
 #### I did set budget and AWS billing notification via AWS consol
 **note to insert picture**
 ``
